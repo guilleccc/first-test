@@ -1,0 +1,52 @@
+10
+
+dir
+2
+https://subversion.assembla.com/svn/mobileapps-phonegap/trunk/SecondProject/res
+https://subversion.assembla.com/svn/mobileapps-phonegap
+
+
+
+2013-06-25T17:38:27.728765Z
+2
+guillec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ff580c1d-8a85-472a-86bb-599e409d4cad
+
+values
+dir
+
+xml
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+

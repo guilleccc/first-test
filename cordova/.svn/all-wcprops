@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/build
+END
+log
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/log
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/clean
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/run
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/version
+END
+appinfo.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/appinfo.jar
+END

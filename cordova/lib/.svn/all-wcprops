@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib
+END
+install-device
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/install-device
+END
+start-emulator
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/start-emulator
+END
+list-emulator-images
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/list-emulator-images
+END
+list-started-emulators
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/list-started-emulators
+END
+list-devices
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/list-devices
+END
+install-emulator
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/install-emulator
+END
+cordova
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mobileapps-phonegap/!svn/ver/2/trunk/SecondProject/cordova/lib/cordova
+END
